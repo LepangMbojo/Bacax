@@ -1,2 +1,2 @@
 # Bacax
-itu apa itudah
+Applikasi baca buku ceritanya
